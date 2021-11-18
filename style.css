@@ -1,0 +1,25 @@
+body {
+  margin-top: 100px;
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 30px;
+}
+
+.links a {
+  margin: 10px;
+  color: antiquewhite;
+  text-decoration: none;
+  background-color: rgb(68, 50, 26);
+  padding: 10px 20px;
+  border-radius: 4px;
+  border: 1px solid rgb(68, 50, 26);
+  transition: all 0.3s ease-in-out;
+}
+
+.links a:hover {
+  color: rgb(68, 50, 26);
+  background-color: antiquewhite;
+}
